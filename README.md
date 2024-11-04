@@ -23,5 +23,10 @@
 
 ### Tools Used
 -Power Bi for Data summary and Visualisation
+### Exploratory Data Analysis
+  EDA involves the exploring of this Data to answer some questions about the Data such as;
+- What is the rate of Attrition
+- What Department have the highest rate of attrition. 
 
-Attrition Metrics:
+### Attrition Metrics:
+

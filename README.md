@@ -44,7 +44,7 @@ Attrition is a critical concern for organizations, impacting talent retention, p
   
 ### Attrition Metrics:
 
-Strategies to Reduce Attrition:
+### Strategies to Reduce Attrition:
 
 1. Competitive compensation and benefits
 2. Employee development and growth opportunities
@@ -55,7 +55,7 @@ Strategies to Reduce Attrition:
 7. Diversity, equity, and inclusion initiatives
 8. Regular performance evaluations and coaching
 
-Best Practices:
+### Best Practices:
 
 1. Conduct regular employee feedback surveys
 2. Analyze exit interviews and feedback

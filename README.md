@@ -1,10 +1,11 @@
 # PROJECT TITLE:  Class-PROJECT-HR-DATA
+---
 ### PROJECT OVERVIEW : 
-
+---
 Attrition is a critical concern for organizations, impacting talent retention, productivity, and overall performance.This Analysis is to give insights on the causes of attrition ,consequences and the general effects of attrition on the overall performance of the organisation and also to profer solution.
 
-### CAUSESE OF ATTRITION:
-
+### CAUSES OF ATTRITION:
+---
 1. Lack of challenge and growth opportunities
 2. Poor management and leadership
 3. Low compensation and benefits
@@ -15,7 +16,7 @@ Attrition is a critical concern for organizations, impacting talent retention, p
 8. Burnout and stress
 
 ### CONSEQUENCES OF ATTRITION:
-
+---
 1. Knowledge loss and expertise gap
 2. Recruitment and training costs
 3. Decreased productivity and efficiency
@@ -23,12 +24,13 @@ Attrition is a critical concern for organizations, impacting talent retention, p
 5. Damage to organizational reputation
 6. Loss of institutional knowledge
 7. Disrupted team dynamics
-```
+
 ### Tools Used
-```
+---
 -Power Bi for Data summary and Visualisation
 
-### Exploratory Data Analysis
+### Exploratory Data AnalysiS
+---
   EDA involves the exploring of this Data to answer some questions about the Data such as;
 - What is the rate of Attrition
 - What Department have the highest rate of attrition.
@@ -43,9 +45,10 @@ Attrition is a critical concern for organizations, impacting talent retention, p
 
   
 ### Attrition Metrics:
+---
 
 ### Strategies to Reduce Attrition:
-
+---
 1. Competitive compensation and benefits
 2. Employee development and growth opportunities
 3. Effective communication and feedback
@@ -56,7 +59,7 @@ Attrition is a critical concern for organizations, impacting talent retention, p
 8. Regular performance evaluations and coaching
 
 ### Best Practices:
-
+---
 1. Conduct regular employee feedback surveys
 2. Analyze exit interviews and feedback
 3. Develop predictive analytics for attrition risk

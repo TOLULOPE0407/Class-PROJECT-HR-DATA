@@ -34,7 +34,13 @@ Attrition is a critical concern for organizations, impacting talent retention, p
 - What Department have the highest rate of attrition.
 
 ### Data Visualisation
-[]
+![Screenshot (15)](https://github.com/user-attachments/assets/a298b456-c060-4878-9063-1d6611db406c)
+
+
+
+
+![Screenshot (19)](https://github.com/user-attachments/assets/a6ec3818-f949-4586-af87-b02fb045281c)
+
   
 ### Attrition Metrics:
 

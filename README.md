@@ -1,16 +1,16 @@
 # PROJECT TITLE:  Class-PROJECT-HR-DATA
 ---
-[PROJECT OVERVIEW](#project-overview)
+[Project Overview](#project-overview)
 
-[CAUSES OF ATTRITION](#causes-of-attrition)
+[Causes Of Attrition](#causes-of-attrition)
 
-[CONSEQUENCES OF ATTRITION](#consequences-of-attrition)
+[Consequences Of Attrition](#consequences-of-attrition)
 
-[TOOL USED](#tool-used)
+[Tool used](#tool-used)
 
-[EXPLORATORY DATA ANALYSIS](exploratory-data-analysis)
+[Exploratory Data Analysis](exploratory-data-analysis)
 
-[DATA VISUALISATION](#data-visualisation)
+[Data Visualisation](#data-visualisation)
 
 [Attrition Metrics](#attrition-metrics)
 
@@ -19,11 +19,11 @@
 [Best Practices](#best-practices)
 
 ---
-### PROJECT OVERVIEW : 
+### Project Overview : 
 ---
 Attrition is a critical concern for organizations, impacting talent retention, productivity, and overall performance.This Analysis is to give insights on the causes of attrition ,consequences and the general effects of attrition on the overall performance of the organisation and also to profer solution.
 
-### CAUSES OF ATTRITION:
+### Causes Of Attrition:
 ---
 1. Lack of challenge and growth opportunities
 2. Poor management and leadership
@@ -34,7 +34,7 @@ Attrition is a critical concern for organizations, impacting talent retention, p
 7. Unhappiness with work environment
 8. Burnout and stress
 
-### CONSEQUENCES OF ATTRITION:
+### Consequences Of Attrition:
 ---
 1. Knowledge loss and expertise gap
 2. Recruitment and training costs
@@ -44,19 +44,20 @@ Attrition is a critical concern for organizations, impacting talent retention, p
 6. Loss of institutional knowledge
 7. Disrupted team dynamics
 
-###  TOOL USED
+###  Tool Used
 
 -Microsoft Power Bi  for Data business  intelligence and Visualisation
 
-### EXPLORATORY DATA ANALYSIS
+### Exploratory Data Analysis
 ---
   EDA involves the exploring of this Data to answer some questions about the Data such as;
 - What is the rate of Attrition
 - What Department have the highest rate of attrition.
-- Reasons for Attrition
-- What percentage of attrition by age band
+- Reasons for Attrition(Job satisfaction or dissatisfaction)
+- Attrition based on age group and gender
+- Attrition count by educational group
 
-### DATA VISUALIZATION
+### Data Visualisation
 ![Screenshot (15)](https://github.com/user-attachments/assets/a298b456-c060-4878-9063-1d6611db406c)
 
 
@@ -67,6 +68,8 @@ Attrition is a critical concern for organizations, impacting talent retention, p
   
 ### Attrition Metrics:
 ---
+-Attrition rate the percentage of employee leaving 16%
+-Total number of current emplyees
 
 ### Strategies to Reduce Attrition:
 ---

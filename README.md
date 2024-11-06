@@ -6,7 +6,11 @@
 
 [CONSEQUENCES OF ATTRITION](#consequences-of-attrition)
 
+[TOOL USED](#tool-used)
 
+[EXPLORATORY DATA ANALYSIS](exploratory-data-analysis)
+
+[DATA VISUALISATION](#data-visualisation)
  
 ---
 ### PROJECT OVERVIEW : 
@@ -34,17 +38,19 @@ Attrition is a critical concern for organizations, impacting talent retention, p
 6. Loss of institutional knowledge
 7. Disrupted team dynamics
 
-### Tools Used
----
--Power Bi for Data summary and Visualisation
+###  TOOL USED
 
-### Exploratory Data AnalysiS
+-Microsoft Power Bi  for Data business  intelligence and Visualisation
+
+### EXPLORATORY DATA ANALYSIS
 ---
   EDA involves the exploring of this Data to answer some questions about the Data such as;
 - What is the rate of Attrition
 - What Department have the highest rate of attrition.
+- Reasons for Attrition
+- What percentage of attrition by age band
 
-### Data Visualisation
+### DATA VISUALIZATION
 ![Screenshot (15)](https://github.com/user-attachments/assets/a298b456-c060-4878-9063-1d6611db406c)
 
 

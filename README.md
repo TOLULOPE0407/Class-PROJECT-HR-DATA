@@ -45,7 +45,7 @@ Attrition is a critical concern for organizations, impacting talent retention, p
 7. Disrupted team dynamics
 
 ###  Tool Used
-
+---
 -Microsoft Power Bi  for Data business  intelligence and Visualisation
 
 ### Exploratory Data Analysis

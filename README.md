@@ -1,7 +1,13 @@
 # PROJECT TITLE:  Class-PROJECT-HR-DATA
 ---
 [PROJECT OVERVIEW](#project-overview)
+
 [CAUSES OF ATTRITION](#causes-of-attrition)
+
+[CONSEQUENCES OF ATTRITION](#consequences-of-attrition)
+
+
+ 
 ---
 ### PROJECT OVERVIEW : 
 ---

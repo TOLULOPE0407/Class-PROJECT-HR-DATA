@@ -11,7 +11,12 @@
 [EXPLORATORY DATA ANALYSIS](exploratory-data-analysis)
 
 [DATA VISUALISATION](#data-visualisation)
- 
+
+[Attrition Metrics](#attrition-metrics)
+
+[Strategies to Reduce Attrition](#strategies-to-reduce-attrition)
+
+[Best Practices](#best-practices)
 ---
 ### PROJECT OVERVIEW : 
 ---

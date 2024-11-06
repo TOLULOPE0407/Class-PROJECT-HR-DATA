@@ -68,8 +68,12 @@ Attrition is a critical concern for organizations, impacting talent retention, p
   
 ### Attrition Metrics:
 ---
--Attrition rate the percentage of employee leaving 16%
--Total number of current emplyees
+
+- Attrition rate the percentage of employee leaving 16%
+- Total number of Employee 1470
+- Total number of current employee 1233
+- Count of Attrition 237
+  
 
 ### Strategies to Reduce Attrition:
 ---
